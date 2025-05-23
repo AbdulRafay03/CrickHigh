@@ -1,0 +1,5 @@
+https://www.researchgate.net/publication/360883121_Video_Summarization_Using_Deep_Learning_for_Cricket_Highlights_Generation
+
+https://www.researchgate.net/publication/364111075_Automatic_Annotation_of_Events_and_Highlights_Generation_of_Cricket_Match_Videos
+
+https://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w34/Shukla_Automatic_Cricket_Highlight_CVPR_2018_paper.pdf 
